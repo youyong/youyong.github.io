@@ -7,7 +7,6 @@
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-<link rel="alternate" type="application/rss&#43;xml" href="/index.xml">
 
 
 <link rel="shortcut icon" href="/favicons/favicon.ico" >
@@ -21,16 +20,20 @@
 <link rel="icon" type="image/png" href="/favicons/android-144x144.png" sizes="144x144">
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
 
-<title>收银软件技术站</title><meta property="og:title" content="收银软件技术站" />
+<title>收银软件技术站</title><meta property="og:title" content="" />
 <meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="/" />
-<meta property="og:image" content="/featured-background.jpg"/>
-<meta property="og:site_name" content="收银软件技术站" />
-<meta itemprop="name" content="收银软件技术站">
-<meta itemprop="description" content=""><meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="/featured-background.jpg"/>
-<meta name="twitter:title" content="收银软件技术站"/>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/index.json" />
+<meta property="article:modified_time" content="2019-11-13T16:12:40+01:00" /><meta property="og:site_name" content="收银软件技术站" />
+<meta itemprop="name" content="">
+<meta itemprop="description" content="">
+<meta itemprop="dateModified" content="2019-11-13T16:12:40&#43;01:00" />
+<meta itemprop="wordCount" content="0">
+
+
+
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content=""/>
 <meta name="twitter:description" content=""/>
 
 
@@ -48,60 +51,13 @@
 
 
   </head>
-  <body class="td-home">
+  <body class="td-page">
     <header>
       
     </header>
     <div class="container-fluid td-default td-outer">
       <main role="main" class="td-main">
         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="preload" as="image" href="/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_960x540_fill_q75_catmullrom_top.jpg" media="(max-width: 1200px)">
-<link rel="preload" as="image" href="/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_1920x1080_fill_q75_catmullrom_top.jpg" media="(min-width: 1200px)">
-<style>
-#td-cover-block-0 {
-    background-image: url(/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_960x540_fill_q75_catmullrom_top.jpg); 
-}
-@media only screen and (min-width: 1200px) {
-    #td-cover-block-0 {
-        background-image: url(/featured-background_hu376e1fbab6ce6c455a2b3aa5c258c0d9_496231_1920x1080_fill_q75_catmullrom_top.jpg); 
-    }
-}
-</style>
-
-<section id="td-cover-block-0" class="row td-cover-block td-cover-block--height-full js-td-cover td-overlay td-overlay--dark -bg-orange">
-  <div class="container td-overlay__inner">
-    <div class="row">
-      <div class="col-12">
-        <div class="text-center">
-          <h1 class="display-1 mt-0 mt-md-5 pb-4">欢迎来到收银软件技术站!</h1>
-          
-          <div class="pt-3 lead">
-            <div class="mx-auto">
-</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-
-
 
 
       </main>
